@@ -1,0 +1,36 @@
+.btn {
+    background: #F3940F;
+    background-image: -webkit-linear-gradient(top, #F3940F, #F3940F);
+    background-image: -moz-linear-gradient(top, #F3940F, #F3940F);
+    background-image: -ms-linear-gradient(top, #F3940F, #F3940F);
+    background-image: -o-linear-gradient(top, #F3940F, #F3940F);
+    background-image: linear-gradient(to bottom, #F3940F, #F3940F);
+    -webkit-border-radius: 20;
+    -moz-border-radius: 20;
+    border-radius: 20px;
+    color: #000;
+    font-size: 10px;
+    padding: 6px 10px 6px 10px;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #F3940F, #F3940F);
+    background-image: -moz-linear-gradient(top, #F3940F, #F3940F);
+    background-image: -ms-linear-gradient(top, #F3940F, #F3940F);
+    background-image: -o-linear-gradient(top, #F3940F, #F3940F);
+    background-image: linear-gradient(to bottom, #F3940F, #F3940F);
+    text-decoration: none;
+  }
+
+  .size{
+    background: #80808066;
+    padding: 0px 10px;
+    border-radius: 20px;
+    padding-bottom: 3px;
+    font-size: 13px;
+    font-weight: 500;
+  }
